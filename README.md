@@ -1,7 +1,6 @@
 ## Tools Installed
 
 - [x] Cursor app
-- [x] Github account
 - [x] Git 
 - [x] Claude Code extension
 - [x] Codex extension
