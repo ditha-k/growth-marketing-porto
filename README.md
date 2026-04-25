@@ -20,27 +20,27 @@
 
 ## Issues & Solutions
 
-- **isue**: Did not familiar with Cursor 
+- **issue**: Did not familiar with Cursor 
 - **solution**: Searched on Youtube
-- **isue**: Did not know how to add the extensions 
+- **issue**: Did not know how to add the extensions 
 - **solution**: Searched on Youtube 
-- **isue**: Did not know how to log in to Claude and Codex from extensions 
+- **issue**: Did not know how to log in to Claude and Codex from extensions 
 - **solution**: Asked Claude
-- **isue**: Failed to verify phone number from Claude log in 
+- **issue**: Failed to verify phone number from Claude log in 
 - **solution**: Claude Code extensions has been sucessfully installed, I will keep trying to log in and update this once resolved 
-- **isue**: Did not familiar with Github 
+- **issue**: Did not familiar with Github 
 - **solution**: Googled it and asked Claude
-- **isue**: Did not know how to push code on Github 
+- **issue**: Did not know how to push code on Github 
 - **solution**: Searched on Youtube
-- **isue**: I missed the step that explained on Youtube 
+- **issue**: I missed the step that explained on Youtube 
 - **solution**: Recreated the repository
-- **isue**: Failed to access my Git app
+- **issue**: Failed to access my Git app
 - **solution**: Asked Claude for what I missed
-- **isue**: Did not find Github verification code 
+- **issue**: Did not find Github verification code 
 - **solution**: Repeated the steps from Cursor and found the code in Cursor
-- **isue**: Did not know how to create a README.md file 
+- **issue**: Did not know how to create a README.md file 
 - **solution**: Asked Claude
-- **isue**: Did not know how to commit and push to Github 
+- **issue**: Did not know how to commit and push to Github 
 - **solution**: Asked Claude
-- **isue**: Checked the repository page result and find out that README formatting appeared messy
+- **issue**: Checked the repository page result and find out that README formatting appeared messy
 - **solution**: Learned a proper Markdown syntax, fix it, and updated a new version
